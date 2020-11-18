@@ -1,0 +1,37 @@
+.idea/
+.history/
+vendor/
+node_modules/
+api/database/bulks
+static/media
+package-lock.json
+npm-debug.log
+yarn-error.log
+static/dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+.happypack/
+webpack/dlls/*.json
+api/**/*.nedb
+*.report.html
+coverage/
+api/video.mp4
+api/data/classifier-es.json
+api/data/classifier.json
+api/config-local.js
+**/.DS_Store
+src/config-local.js
+.vscode/chrome/*
+logs/*
+nohup.out
+api/meli-ca.crt
+api/meli-client.crt
+api/meli-client.key
+api/meli-client.p12
+api/meli-server.crt
+api/meli-server.key
+Untitled-2.xml
+<?xml version="1.0" encoding="UTF-8" sta.xml
+<?xml version="1.0" encoding="UTF-8"?>.xml
+build

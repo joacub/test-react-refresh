@@ -1,0 +1,24 @@
+{
+  "exclude": [
+    "static/dist",
+    "node_modules",
+    "**/node_modules/*",
+    ".git"
+  ],
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es6",
+    "module": "commonjs",
+    // This is the line you want to add
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "paths": {
+      "*": [
+        "*"
+      ],
+    },
+  },
+  "typingOptions": {
+    "enableAutoDiscovery": false
+  }
+}

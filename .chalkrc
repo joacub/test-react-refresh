@@ -1,0 +1,6 @@
+{
+  "overwrite": {
+    "grey": "blue",
+    "gray": "blue"
+  }
+}
